@@ -1,7 +1,7 @@
 const express = require('express');
 const dotenv = require('dotenv');
-const razorpay = require('razorpay');
 const cor = require('cors');
+const razorpay = require('razorpay');
 const crypto = require('crypto');   
 
 dotenv.config();
